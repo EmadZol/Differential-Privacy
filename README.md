@@ -28,7 +28,14 @@ git clone https://github.com/EmadZol/Differential-Privacy.git
 
 ## Homework Assignments
 
-We have progressively organized the homework assignments, starting with the basics and advancing to more complex topics. Each notebook is self-contained and includes detailed instructions. Feel free to ask questions or seek help in the community if needed.
+Here's a table of the homework assignments in this repository:
+
+| Homework Assignment  | Notebook Link |
+|----------------------|---------------|
+| Practical Homework 1 | [DP_CHW1.ipynb](https://github.com/EmadZol/Differential-Privacy/blob/main/DP_CHW1.ipynb) |
+
+
+We have organized the homework assignments in a progressive manner, starting with the basics and advancing to more complex topics. Each notebook is self-contained and includes detailed instructions. Feel free to ask questions or seek help in the community if needed.
 
 
 ## License
